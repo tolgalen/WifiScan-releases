@@ -1,2 +1,2 @@
 # WifiScan-releases
-APKs publicados de WifiScan (el código fuente es privado)
+Published APKs for WifiScan (the source code is private)
